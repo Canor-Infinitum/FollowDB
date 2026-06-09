@@ -1,7 +1,7 @@
 object Tools: TTools
-  Left = 74
+  Left = 1763
   Height = 768
-  Top = 185
+  Top = 144
   Width = 216
   BorderStyle = bsNone
   Caption = 'Tools'
@@ -13,7 +13,6 @@ object Tools: TTools
   Font.Color = 2236962
   Font.Height = -16
   Font.Name = 'Cambria'
-  FormStyle = fsStayOnTop
   PopupMenu = MainPopupMenu
   Position = poDesktopCenter
   SnapOptions.Distance = 25

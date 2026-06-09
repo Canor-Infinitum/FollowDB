@@ -14,17 +14,37 @@ This project is part of the **Canor Infinitum FOSS Projects** and is licensed un
 ---
 
 ## Ecosystem Integration
-FollowDB™ is the **Quantum Gravity Communication Repository** of the CanorOS vibe-coding ecosystem. It serves as the storage substrate for all physically realizable QGCT (Quantum Gravity Communication Theory) constructs. 
 
-FollowDB™ stores:
-- Canonical library of geometric encodings.
-- Permutation-group moduli space tables.
-- Orthonormal reservoir computing datasets mined by AetherAI.
-- Security-audited execution schemas validated by Envoy.
+FollowDB™ is the **Quantum Gravity Communication Repository** of the CanorOS vibe-coding ecosystem. It serves as the storage substrate for all physically realizable QGCT (Quantum Gravity Communication Theory) constructs.
 
-By providing a database-independent exchange layer, FollowDB™ enables different quantum-coupled systems to coordinate their topological transformations and maintain consensus.
++-------------------------------------------------------------------+
+|                         ECONOMIC LAYER                            |
+|                 Digital Nomadica™ (Marketplace)                   |
++-------------------------------------------------------------------+
+|                         SECURITY LAYER                            |
+|                   Envoy™ (Execution Governance)                   |
++-------------------------------------------------------------------+
+|                        INFERENCE LAYER                            |
+|             FollowerInstinct™ (Math/Physics Engine)               |
++-------------------------------------------------------------------+
+|                          DATA LAYER                               |
+|            FollowDB™ (Temporal & Semantic Persistence)            |
++-------------------------------------------------------------------+
+|                          LOGIC LAYER                              |
+|          Follow™ (Reactive/Symbolic Meta-Programming)             |
++-------------------------------------------------------------------+
+|                          AGENT LAYER                              |
+|            AetherAI™ / OverlayAI™ (Agent Runtime)                 |
++-------------------------------------------------------------------+
+|                           OS LAYER                                |
+|           CanorOS™ (AI-first Real-Time Operating System)          |
++-------------------------------------------------------------------+
+|                         PHYSICAL LAYER                            |
+|             IoT Sensors / Embedded & Quantum Sensors              |
++-------------------------------------------------------------------+
 
 ---
+
 
 ## Codebase Structure
 - `/src/`: Core database engine, query parsing, and serialization rules.

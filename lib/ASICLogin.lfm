@@ -1,7 +1,7 @@
 object Login: TLogin
-  Left = 171
+  Left = 2940
   Height = 216
-  Top = 415
+  Top = 173
   Width = 384
   BorderStyle = bsNone
   Caption = 'Canor Infinitum - Login'
@@ -13,7 +13,6 @@ object Login: TLogin
   Font.Color = 2236962
   Font.Height = -16
   Font.Name = 'Cambria'
-  FormStyle = fsStayOnTop
   HelpFile = 'LOGIN'
   Position = poDesktopCenter
   SnapOptions.SnapToMonitor = True

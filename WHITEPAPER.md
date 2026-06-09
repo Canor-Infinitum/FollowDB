@@ -43,10 +43,12 @@ For AetherAI to quickly generate valid code, FollowDB indexes optimized moduli-s
 
 ## 4. Security Audits and Transaction Log
 
-Every database transaction is audited by **Envoy** before serialization.
-- Transactions are checked for Larmor-clock sync phase alignment.
+Every database transaction in the **Data Layer** (Layer 5) is audited by **Envoy** (Layer 7) before serialization.
+- Transactions are checked for Larmor-clock sync phase alignment scheduled by **CanorOS** (Layer 2).
 - Writes are rejected if they introduce non-contractive mappings into the spatial index.
 - Log records are stored as Cayley-Dickson spacetime deltas, ensuring that database history represents a physical, chronological timeline of the system's states.
+- Persisted structures are made available to the **Economic Layer** (**Digital Nomadica** - Layer 8) for secure decentralized exchange.
+
 
 ---
 

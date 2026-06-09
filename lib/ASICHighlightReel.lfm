@@ -1,7 +1,7 @@
 object HighlightReel: THighlightReel
-  Left = 319
+  Left = 1833
   Height = 288
-  Top = 834
+  Top = 1011
   Width = 768
   BorderStyle = bsNone
   Caption = 'Highlight Reel'
@@ -13,7 +13,6 @@ object HighlightReel: THighlightReel
   Font.Color = 2236962
   Font.Height = -16
   Font.Name = 'Cambria'
-  FormStyle = fsStayOnTop
   Position = poDesktopCenter
   SnapOptions.Distance = 25
   LCLVersion = '4.6.0.0'
